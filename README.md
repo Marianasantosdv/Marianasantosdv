@@ -1,25 +1,23 @@
-<h2 align="center">🌸 Oiie, eu sou a Mariana Oliveira! 🌸</h2>
-<!-- se o arquivo estiver no próprio repositório -->
-<img src="./typing-card.svg" alt="i'm 19 years old" width="520">
+<h2 align="center"> 𓆟✧🎀Oiie, eu sou a Mariana Oliveira!🎀✧𓆝 </h2>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75AC8&width=435&lines=I'm+19+Years+old)](https://git.io/typing-svg)
+##
 
+ೀ Sou estudante de:
+🗓 Análise e desenvolvimento de sistemas.♡
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/She/Her-FFC0CB?style=for-the-badge&logoColor=white">
-</p>
 
 ---
 
-- 🌱 Estou aprendendo: **Javascript**
-- 📬 Como me encontrar: **marianaoliveira.dev@gmail.com**
+ ⭒ Estou aprendendo: **Javascript**
 
 
-### 📊 Estatísticas do GitHub
+
+### ˗ˏˋ ♡ ˎˊ˗ Estatísticas do GitHub
 
 ![Mariana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Marianasantosdv&show_icons=true&count_private=true&hide_title=true&theme=radical&hide=prs&bg_color=FFCCF9&title_color=FF66B2&icon_color=FF3399&text_color=000000)
 
-### 📝 Linguagens mais usadas
+### ❀ Linguagens mais usadas
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Marianasantosdv&layout=compact&langs_count=10&theme=radical&bg_color=FFCCF9&title_color=FF66B2&icon_color=FF3399&text_color=000000)
 
