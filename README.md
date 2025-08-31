@@ -1,4 +1,8 @@
 <h2 align="center">🌸 Oiie, eu sou a Mariana Oliveira! 🌸</h2>
+<!-- se o arquivo estiver no próprio repositório -->
+<img src="./typing-card.svg" alt="i'm 19 years old" width="520">
+
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
